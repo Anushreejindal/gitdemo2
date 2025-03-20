@@ -1,3 +1,3 @@
 # gitdemo2
 Hello this is demo repository for git
-Author: Anushree Jindal
+<br>Author: Anushree Jindal
